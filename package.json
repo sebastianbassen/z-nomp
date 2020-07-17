@@ -35,7 +35,7 @@
     },
     "dependencies": {
         "async": "2.3.0",
-        "bignum": "0.12.5",
+        "bignum": "0.13.0",
         "body-parser": "1.17.1",
         "colors": "1.1.2",
         "compression": "1.6.2",
@@ -48,7 +48,7 @@
         "node-watch": "0.5.2",
         "nonce": "1.0.4",
         "redis": "2.7.1",
-        "request": "2.81.0",
+        "request": "2.88.0",
         "stratum-pool": "git+https://github.com/z-classic/node-stratum-pool.git"
     },
     "engines": {
