@@ -35,7 +35,7 @@
     },
     "dependencies": {
         "async": "2.3.0",
-        "bignum": "0.12.5",
+        "bignum": "0.13.1",
         "body-parser": "1.17.1",
         "colors": "1.1.2",
         "compression": "1.6.2",
